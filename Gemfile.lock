@@ -1,8 +1,8 @@
 GIT
   remote: git://github.com/activerecord-hackery/ransack.git
-  revision: 73e7da9fd2f5334e72b6d7f170afdcc58d07eec7
+  revision: 6e004ec93818b05eee0468f99d94b62373375d4e
   specs:
-    ransack (1.8.0)
+    ransack (1.8.1)
       actionpack (>= 3.0)
       activerecord (>= 3.0)
       activesupport (>= 3.0)
@@ -50,7 +50,7 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
     ansi (1.5.0)
-    arel (7.0.0)
+    arel (7.1.1)
     builder (3.2.2)
     coderay (1.1.1)
     coffee-rails (4.2.1)
